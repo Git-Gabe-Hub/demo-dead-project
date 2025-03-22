@@ -12,4 +12,4 @@ permalink: /my-page.html
 
 *my italicized text*
 
-![Alt textt] (IMG_6390.JPG)
+![Alt text](IMG_6390.jpg)
