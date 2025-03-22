@@ -12,4 +12,4 @@ permalink: /my-page.html
 
 *my italicized text*
 
-![Alt text]((https://github.com/Git-Gabe-Hub/demo-dead-project/blob/main/objects/IMG_6390.JPG?raw=true)
+![Alt text](https://github.com/Git-Gabe-Hub/demo-dead-project/blob/main/objects/IMG_6390.JPG?raw=true)
