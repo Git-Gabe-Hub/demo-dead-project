@@ -23,3 +23,4 @@ permalink: /my-page.html
 ![Alt text](https://github.com/Git-Gabe-Hub/demo-dead-project/blob/main/IMG_6401.JPG?raw=true)
 ![Alt text](https://github.com/Git-Gabe-Hub/demo-dead-project/blob/main/IMG_6405.JPG?raw=true)
 ![Alt text](https://github.com/Git-Gabe-Hub/demo-dead-project/blob/main/IMG_6416.JPG?raw=true)
+![Alt text](https://github.com/Git-Gabe-Hub/demo-dead-project/blob/main/IMG_6433.JPG?raw=true)
