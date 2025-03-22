@@ -11,3 +11,5 @@ permalink: /my-page.html
 - Third item
 
 *my italicized text*
+
+![Alt textt] (IMG_6390.JPG)
